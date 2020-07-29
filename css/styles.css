@@ -12,11 +12,13 @@
 }
 
 .landing h1{
+    color: white;
     padding: 2px;
     margin: 5px;
 }
 
 .landing p{
+    color: white;
     padding: 2px;
 }
   
